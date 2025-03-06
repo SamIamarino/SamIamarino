@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Node, Express.**
 
-- 💬 Ask me about **React , Javascript.**
+- 💬 Ask me about **React , Javascript, Spring and Angular.**
 
 - 📫 How to reach me **ferlaiamarino@gmail.com**
 
