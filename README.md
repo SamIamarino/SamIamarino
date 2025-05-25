@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Iamarino</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
 
-- 🌱 I’m currently learning **React, Node, Express.**
+- 🌱 I’m currently learning **React, Angular, Spring.**
 
 - 💬 Ask me about **React , Javascript, Spring and Angular.**
 
