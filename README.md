@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Iamarino</h1>
-<h3 align="center">A passionate Computer Science Student</h3>
+<h3 align="center">Marketing Automation Intern at BRP.</h3>
 
-- 🌱 I’m currently learning **React, Angular, Spring.**
+- 🌱 I’m currently learning Cypress, Robot Framework and Testing.
 
 - 💬 Ask me about **React , Javascript, Spring and Angular.**
 
